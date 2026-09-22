@@ -1,6 +1,6 @@
 {
-  "versao": "1.7.0",
-  "url_download": "https://github.com/eliasqueiroz-dotcom/dre-forecast-releases/releases/latest",
-  "notas": "DRE no padrao contabil brasileiro (art. 187): EBITDA agora exclui Depreciacao/Amortizacao (linha propria), Deducoes da Receita separadas da Receita Bruta e Despesas desdobradas em Vendas x Administrativas x Outras.",
+  "versao": "1.8.0",
+  "url_download": "https://github.com/queiroz-labs/dre-forecast-releases/releases/tag/v1.8.0",
+  "notas": "Nova interface em Dados, Projeção e Resultado; temas claro/escuro; revisão de classificação com busca. Windows 10 2004+/11, .NET 4.8+. Instalador inclui WebView2 offline e preserva licença e configurações.",
   "versao_minima_suportada": "1.0.0"
 }
