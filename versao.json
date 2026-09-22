@@ -1,6 +1,6 @@
 {
-  "versao": "1.8.0",
-  "url_download": "https://github.com/queiroz-labs/dre-forecast-releases/releases/tag/v1.8.0",
-  "notas": "Nova interface em Dados, Projeção e Resultado; temas claro/escuro; revisão de classificação com busca. Windows 10 2004+/11, .NET 4.8+. Instalador inclui WebView2 offline e preserva licença e configurações.",
+  "versao": "1.8.2",
+  "url_download": "https://github.com/queiroz-labs/dre-forecast-releases/releases/tag/v1.8.2",
+  "notas": "Corrige o travamento ao fechar a janela na 1.8.0 (se você usa a 1.8.0, atualize). Nova aba Planejamento: cenários com regras e eventos, prévia, simulação e comparação exportável. Excel com nova aba Visão Geral e DRE Mensal reorganizada. Windows 10 2004+/11, .NET 4.8+. Instalador inclui WebView2 offline e preserva licença e configurações.",
   "versao_minima_suportada": "1.0.0"
 }
