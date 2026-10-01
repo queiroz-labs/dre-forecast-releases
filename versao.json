@@ -1,6 +1,6 @@
 {
-  "versao": "1.9.0",
-  "url_download": "https://github.com/queiroz-labs/dre-forecast-releases/releases/tag/v1.9.0",
-  "notas": "Análise de desvios até o lançamento de origem, com explicação, responsável e prazo. Versões do forecast: salvar, comparar, declarar o realizado fechado e avaliar quanto cada versão errou. Windows 10 2004+/11, .NET 4.8+. Instalador inclui WebView2 offline e preserva licença, configurações e projetos.",
+  "versao": "1.10.0",
+  "url_download": "https://github.com/queiroz-labs/dre-forecast-releases/releases/tag/v1.10.0",
+  "notas": "Excel executivo com gráficos nativos, base analítica, comparação de versões e acurácia. Classificação e overrides no app com Excel de apoio automático. Correção de importação do realizado e orçado com cópia auditável e original preservado. Interface mais compacta. Instalador com WebView2 offline; preserva licença, configurações e projetos.",
   "versao_minima_suportada": "1.0.0"
 }
